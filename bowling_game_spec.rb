@@ -39,6 +39,8 @@ describe BowlingGame do
       expect(game.score).to eq(26)
     end
   end
+
+  
 end
 
 
