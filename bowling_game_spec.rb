@@ -40,7 +40,12 @@ describe BowlingGame do
     end
   end
 
-  
+  # context 'if spare or strike is thrown in 10th frame,' do
+  #   it do
+  #     12.times { game.roll(10) }
+  #     expect(game.score).to eq(300)
+  #   end
+  # end
 end
 
 
